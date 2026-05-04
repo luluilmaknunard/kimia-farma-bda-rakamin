@@ -1,5 +1,6 @@
-# 📊 Dashboard Performance Analytics Kimia Farma (2020–2023)
-[![Dashboard Preview](dashb.png)](https://lookerstudio.google.com/)
+# 📊 Dashboard Kimia Farma Performance Analytics Bussiness Year 2020–2023
+[![Dashboard Preview](Dashboard.png)](https://datastudio.google.com/reporting/68c2293c-1e3c-477f-a1fa-824531a83e42)
+
 ## 🧠 Data Story: Dari Data Transaksi ke Insight Bisnis
 
 Project ini merupakan bagian dari pembelajaran **Big Data Analytics** yang berfokus pada bagaimana data dapat digunakan untuk menghasilkan insight bisnis yang relevan.
