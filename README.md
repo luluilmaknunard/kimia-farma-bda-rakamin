@@ -3,9 +3,17 @@
 
 ## 🧠 Data Story: Dari Data Transaksi ke Insight Bisnis
 
-Project ini merupakan bagian dari pembelajaran **Big Data Analytics** yang berfokus pada bagaimana data dapat digunakan untuk menghasilkan insight bisnis yang relevan.
+Project ini merupakan bagian dari pembelajaran **Big Data Analytics** yang dikembangkan melalui Project-Based Learning Rakaming Academy bekerja sama dengan Kimia Farma.
 
-Studi kasus yang digunakan adalah Kimia Farma, sebuah perusahaan farmasi BUMN yang memiliki jaringan luas di seluruh Indonesia, mulai dari produksi hingga layanan apotek. Dengan skala bisnis yang besar, data menjadi kunci penting dalam memahami performa dan menentukan strategi ke depan.
+Kimia Farma adalah sebuah perusahaan farmasi BUMN yang memiliki jaringan luas di seluruh Indonesia, mulai dari produksi hingga layanan apotek. Dengan skala bisnis yang besar, data menjadi kunci penting dalam memahami performa dan menentukan strategi ke depan.
+
+Dalam studi kasus ini, peserta berperan sebagai Data Analyst yang diminta untuk:
+
+* Mengolah data transaksi dalam skala besar
+* Menganalisis performa bisnis
+* Menyajikan insight dalam bentuk dashboard interaktif
+
+Pendekatan ini memberikan pengalaman end-to-end, mulai dari data processing hingga data storytelling.
 
 ---
 
@@ -129,22 +137,6 @@ Dari keseluruhan analisis dapat disimpulkan bahwa:
 * Namun terdapat peluang untuk mengoptimalkan cabang dengan performa transaksi rendah
 
 Dengan memanfaatkan insight ini, perusahaan dapat merancang strategi yang lebih tepat, baik dalam ekspansi wilayah maupun peningkatan performa cabang.
-
----
-
-## 🔗 Dashboard Interaktif
-
-👉 **[Lihat Dashboard Looker Studio](https://lookerstudio.google.com/)**
-
-*(Ganti dengan link dashboard kamu)*
-
----
-
-## 🖼️ Preview Dashboard
-
-Klik gambar untuk membuka dashboard:
-
-[![Dashboard Preview](dashboard.png)](https://lookerstudio.google.com/)
 
 ---
 
